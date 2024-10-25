@@ -2,7 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently an undergraduate bachelors of Computer Science Student at FAST NUCES
-- 🌱 My top interests include Artificial Intelligence, Data Science, Flutter Development, Cloud and Blockchain
-- 👯 I’m looking to collaborate on open-source projects related to AI and Data Science
-- 📫 How to reach me: shahwaiz638@gmail.com / https://www.linkedin.com/in/shahwaiz-memon/
+- Machine Learning Engineer at Upstart Commerce.
+- Bachelors of Computer Science from FAST NUCES Islamabad, Pakistan (2020 - 2024).
+- Interests: Artificial Intelligence, Data Science, RL Theory, LLMs and Generative AI
+- Some of my project work also includes Flutter Development, Cloud and Blockchain
+- I’m looking to collaborate on open-source projects related to AI and Data Science
+- How to reach me: shahwaiz638@gmail.com / https://www.linkedin.com/in/shahwaiz-memon/
